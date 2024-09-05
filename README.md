@@ -11,7 +11,11 @@
 ## Sliding Window
 * [209. Minimum Size Subarray Sum (Medium)](https://leetcode.com/problems/minimum-size-subarray-sum): [minSubArrayLen](src/minSubArrayLen.py)
 
-## In-Place Manipulation of a Linked List
+## Linked List
+### In-Place Manipulation
 * [206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list): [reverseList](linkedlist/reverseList.py) 
 * [25. Reverse Nodes in k-Group (Hard)](https://leetcode.com/problems/reverse-nodes-in-k-group): [reverseKGroup](linkedlist/reverseKGroup.py)
 
+## Heap
+### Two Heaps
+* [502. IPO (Hard)](https://leetcode.com/problems/ipo): [findMaximizedCapital](heap/findMaximizedCapital.py)
