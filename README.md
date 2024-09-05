@@ -6,11 +6,12 @@
 * [283. Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes): [moveZeroes](src/moveZeroes.py)
 * [2000. Reverse Prefix of Word (Easy)](https://leetcode.com/problems/reverse-prefix-of-word): [reversePrefix](src/reversePrefix.py)
 ### Linked List
-* [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list): [removeNthFromEnd](linkedlist/removeNthFromEnd.py) 
+* [19. Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list): [removeNthFromEnd](linkedlist/removeNthFromEnd.py) 
 
 ## Sliding Window
 * [209. Minimum Size Subarray Sum (Medium)](https://leetcode.com/problems/minimum-size-subarray-sum): [minSubArrayLen](src/minSubArrayLen.py)
 
 ## In-Place Manipulation of a Linked List
 * [206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list): [reverseList](linkedlist/reverseList.py) 
+* [25. Reverse Nodes in k-Group (Hard)](https://leetcode.com/problems/reverse-nodes-in-k-group): [reverseKGroup](linkedlist/reverseKGroup.py)
 

@@ -1,15 +1,17 @@
-from linkedlist.ListNode import ListNode
+from linkedlist.list_node import ListNode
 from linkedlist.reverseList import Solution
-from traverseLinkedList import traverseLinkedList
+from linked_list import LinkedList
 
 def test_reverseList():
-    head = ListNode(1)
-    cur = head 
-    for i in range(2,6):
-        cur.next = ListNode(i)
-        cur = cur.next
-    output = [5, 4, 3, 2, 1]
-    solution = Solution()
-    head = solution.reverseList(head)
-    ans = traverseLinkedList(head)
-    assert ans == output
+    test_cases = [
+        ([1,2,3,4,5], [5,4,3,2,1]),
+        ([1,2], [2,1]),
+        ([], [])
+    ]
+
+    for nums, output in test_cases: 
+        linkedList = LinkedList(nums)
+        solution = Solution()
+        head = solution.reverseList(linkedList.head)
+        ans = LinkedList.traverse(head)
+        assert ans == output
