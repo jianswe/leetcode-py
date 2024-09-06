@@ -18,4 +18,8 @@
 
 ## Heap
 ### Two Heaps
+* [295. Find Median from Data Stream (Hard)](https://leetcode.com/problems/find-median-from-data-stream): [MedianFinder](heap/MedianFinder.py)
 * [502. IPO (Hard)](https://leetcode.com/problems/ipo): [findMaximizedCapital](heap/findMaximizedCapital.py)
+
+### K-way merge 
+* [378. Kth Smallest Element in a Sorted Matrix (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix): [kthSmallest](heap/kthSmallest.py)
