@@ -23,3 +23,12 @@
 
 ### K-way merge 
 * [378. Kth Smallest Element in a Sorted Matrix (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix): [kthSmallest](heap/kthSmallest.py)
+
+## Tree
+### DFS 
+* [114. Flatten Binary Tree to Linked List (Medium)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list): [flatten](tree/flatten.py)
+* [543. Diameter of Binary Tree (Easy)](https://leetcode.com/problems/diameter-of-binary-tree): [diameterOfBinaryTree](tree/diameterOfBinaryTree.py)
+
+### BFS
+* [102. Binary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal): [levelOrder](tree/levelOrder.py)
+* [103. Binary Tree Zigzag Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal): [zigzagLevelOrder](tree/zigzagLevelOrder.py)
