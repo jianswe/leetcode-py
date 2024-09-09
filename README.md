@@ -38,3 +38,7 @@
 ### BFS
 * [102. Binary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal): [levelOrder](tree/levelOrder.py)
 * [103. Binary Tree Zigzag Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal): [zigzagLevelOrder](tree/zigzagLevelOrder.py)
+
+## Graph
+### Dijkstra's Algorithm 
+* [743. Network Delay Time (Medium)](https://leetcode.com/problems/network-delay-time): [networkDelayTime](graph/networkDelayTime.py)
