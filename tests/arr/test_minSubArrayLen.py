@@ -1,4 +1,4 @@
-from src.minSubArrayLen import Solution
+from arr.minSubArrayLen import Solution
 
 def test_minSubArrayLen():
     test_cases = [

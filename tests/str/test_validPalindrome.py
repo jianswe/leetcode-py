@@ -1,4 +1,4 @@
-from src.validPalindrome import Solution
+from str.validPalindrome import Solution
 
 def test_validPalindrome():
     test_cases = [

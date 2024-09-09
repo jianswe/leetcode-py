@@ -1,4 +1,4 @@
-from src.reversePrefix import reversePrefix
+from str.reversePrefix import reversePrefix
 
 def test_reversePrefix():
     test_cases = [

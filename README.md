@@ -17,12 +17,18 @@
 * [25. Reverse Nodes in k-Group (Hard)](https://leetcode.com/problems/reverse-nodes-in-k-group): [reverseKGroup](linkedlist/reverseKGroup.py)
 
 ## Heap
-### Two Heaps
-* [295. Find Median from Data Stream (Hard)](https://leetcode.com/problems/find-median-from-data-stream): [MedianFinder](heap/MedianFinder.py)
-* [502. IPO (Hard)](https://leetcode.com/problems/ipo): [findMaximizedCapital](heap/findMaximizedCapital.py)
+* [1962. Remove Stones to Minimize the Total (Medium)](https://leetcode.com/problems/remove-stones-to-minimize-the-total): [minStoneSum](heap/minStoneSum.py)
+
+### Top K Elements 
+* [347. Top K Frequent Elements (Medium)](https://leetcode.com/problems/top-k-frequent-elements): [topKFrequent](heap/topKFrequent.py)
+* [658. Find K Closest Elements (Medium)](https://leetcode.com/problems/find-k-closest-elements): [findClosestElements](heap/findClosestElements.py)
 
 ### K-way merge 
 * [378. Kth Smallest Element in a Sorted Matrix (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix): [kthSmallest](heap/kthSmallest.py)
+
+### Two Heaps
+* [295. Find Median from Data Stream (Hard)](https://leetcode.com/problems/find-median-from-data-stream): [MedianFinder](heap/MedianFinder.py)
+* [502. IPO (Hard)](https://leetcode.com/problems/ipo): [findMaximizedCapital](heap/findMaximizedCapital.py)
 
 ## Tree
 ### DFS 

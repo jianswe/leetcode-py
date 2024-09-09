@@ -1,4 +1,4 @@
-from src.threeSum import Solution
+from arr.threeSum import Solution
 
 def test_threeSum(): 
     test_cases = [

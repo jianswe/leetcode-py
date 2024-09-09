@@ -1,4 +1,4 @@
-from src.moveZeroes import moveZeroes
+from arr.moveZeroes import moveZeroes
 
 def test_moveZeroes():
     test_cases = [

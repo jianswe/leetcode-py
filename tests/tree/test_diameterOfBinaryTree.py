@@ -1,5 +1,4 @@
 import pytest
-from tree.tree_node import TreeNode
 from tree.diameterOfBinaryTree import Solution
 from binary_tree import BinaryTree
 

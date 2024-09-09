@@ -1,4 +1,4 @@
-from src.isPalindrome import Solution
+from str.isPalindrome import Solution
 
 def test_isPalindrome():
     test_cases = [
