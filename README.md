@@ -32,6 +32,7 @@
 
 ## Tree
 ### DFS 
+* [94. Binary Tree Inorder Traversal (Easy)](https://leetcode.com/problems/binary-tree-inorder-traversal): [inorderTraversal](tree/inorderTraversal.py)
 * [114. Flatten Binary Tree to Linked List (Medium)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list): [flatten](tree/flatten.py)
 * [543. Diameter of Binary Tree (Easy)](https://leetcode.com/problems/diameter-of-binary-tree): [diameterOfBinaryTree](tree/diameterOfBinaryTree.py)
 
@@ -40,5 +41,10 @@
 * [103. Binary Tree Zigzag Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal): [zigzagLevelOrder](tree/zigzagLevelOrder.py)
 
 ## Graph
+* [2077. Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room): [numberOfPaths](graph/numberOfPaths.py)
+
+### DFS
+* [133. Clone Graph (Medium)](https://leetcode.com/problems/clone-graph): [cloneGraph](graph/cloneGraph.py)
+
 ### Dijkstra's Algorithm 
 * [743. Network Delay Time (Medium)](https://leetcode.com/problems/network-delay-time): [networkDelayTime](graph/networkDelayTime.py)
