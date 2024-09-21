@@ -33,6 +33,9 @@
 ## Tree
 ### DFS 
 * [94. Binary Tree Inorder Traversal (Easy)](https://leetcode.com/problems/binary-tree-inorder-traversal): [inorderTraversal](tree/inorderTraversal.py)
+* [144. Binary Tree Preorder Traversal (Easy)](https://leetcode.com/problems/binary-tree-preorder-traversal): [preorderTraversal](tree/preorderTraversal.py)
+* [145. Binary Tree Postorder Traversal (Easy)](https://leetcode.com/problems/binary-tree-postorder-traversal): [postorderTraversal](tree/postorderTraversal.py)
+
 * [114. Flatten Binary Tree to Linked List (Medium)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list): [flatten](tree/flatten.py)
 * [543. Diameter of Binary Tree (Easy)](https://leetcode.com/problems/diameter-of-binary-tree): [diameterOfBinaryTree](tree/diameterOfBinaryTree.py)
 
